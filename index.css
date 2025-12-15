@@ -2,4 +2,8 @@ body{
     margin: 0 auto;
     padding: 20px;
 }
+h1 {
+    color: red;
+    margin: 30px;
+}
 
